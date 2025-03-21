@@ -57,3 +57,6 @@ The `boys` data contains `r nrow(boys)` rows and `r ncol(boys)` columns. In tota
 
 # Een koala
 ![Koala](koala.jpg)
+
+# Yoda
+![Yoda's wise words](Yoda.png)

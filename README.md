@@ -1,4 +1,4 @@
 # Tut2
 
-The rendered 'Quarto' file can be found [here](/doc/quarto.html)
+The rendered 'Quarto' file can be found [here](/reprodev-exercise_quarto/doc/quarto.html)
  

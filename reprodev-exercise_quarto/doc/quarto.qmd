@@ -54,3 +54,6 @@ The `boys` data contains `r nrow(boys)` rows and `r ncol(boys)` columns. In tota
 # Meme
 [Rick roll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ![A rick roll](Im.jpg){fig-align="center"}
+
+# Een koala
+![Koala](koala.jpg)
